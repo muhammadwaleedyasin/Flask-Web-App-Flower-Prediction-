@@ -23,8 +23,8 @@ To get this project up and running on your local machine, follow these steps:
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/your-username/flower-class-predictor.git
-    cd flower-class-predictor
+    git clone https://github.com/muhammadwaleedyasin/Flask-Web-App-Flower-Prediction-.git
+    cd Flask-Web-App-Flower-Prediction-
     ```
 
 2. Create and activate a virtual environment (optional but recommended):
@@ -56,8 +56,8 @@ To get this project up and running on your local machine, follow these steps:
 
 Here are some screenshots of the application in action:
 
-![Demo Image 1](path/to/demo-image1.png)
-![Demo Image 2](path/to/demo-image2.png)
+![Demo Image 1](images/1.png)
+![Demo Image 2](images/2.png)
 
 ## Results
 
